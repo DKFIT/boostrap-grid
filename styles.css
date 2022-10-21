@@ -1,0 +1,16 @@
+.container {
+    height: 100vh;
+    text-align: center;
+    
+}
+
+
+
+.nu{
+    height: calc(100%/3);
+}
+img{
+    object-fit: cover;
+   
+    
+}
